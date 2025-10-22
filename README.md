@@ -57,6 +57,20 @@
     line-height: 1.5;
   }
 
+  audio {
+            border: 3px solid #00FFFF; /* Borda ciano neon */
+            border-radius: 15px;
+            box-shadow: 
+                0 0 10px #00FFFF, 
+                0 0 20px #00FFFF, 
+                0 0 30px #00FFFF, 
+                0 0 40px #00FFFF; /* Efeito neon brilhante */
+            background-color: #000; /* Fundo preto */
+            color: #00FFFF; /* Texto ciano */
+            padding: 10px;
+            outline: none;
+        }
+
   .content-box strong {
     color: #0ff;
   }
@@ -141,6 +155,9 @@
 <img src="https://i.ibb.co/QFbZvzbX/IMG-20251021-WA0311.jpg" alt="Azrael A Lenda" class="profile-pic"/>
 
 <h2>INVASORES ORG</h2>
+<audio controls>
+        <source src="https://s11.convertr.org/storage/files/mh28jewvx1pb4ranf/cuteM4A_128K.mp3" type="audio/mpeg">
+</audio>
 
 <div class="content-box">
   Seja bem-vindo à minha página profissional de divulgação. Aqui, apresento meus perfis e métodos básicos para otimização, destinados a quem tenha interesse em aprimorar seus processos.
