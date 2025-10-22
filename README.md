@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8" />
@@ -170,6 +169,6 @@
   INVASORES ORG
 </footer>
 <p>Criador_Azrael</p>
-
+  <p>Estilização Jhunior esthurt</p>
 </body>
 </html>
