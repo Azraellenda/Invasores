@@ -169,6 +169,4 @@
   INVASORES ORG
 </footer>
 <p>Criador_Azrael</p>
-  <p>Estilização Jhunior esthurt</p>
-</body>
-</html>
+  <p>Estilização Jhunior esthurt</p></body></html>
